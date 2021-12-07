@@ -1,4 +1,4 @@
-package com.codingdojo.hellohuman;
+package com.codingdojo.hopper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

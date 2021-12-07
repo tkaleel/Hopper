@@ -1,4 +1,4 @@
-package com.codingdojo.hellohuman.controllers;
+package com.codingdojo.hopper.controllers;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

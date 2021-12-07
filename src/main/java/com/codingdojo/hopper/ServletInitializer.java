@@ -1,4 +1,4 @@
-package com.codingdojo.hellohuman;
+package com.codingdojo.hopper;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
